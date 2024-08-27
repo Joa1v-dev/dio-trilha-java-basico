@@ -1,8 +1,4 @@
 public class TiposVariaveis {
-    /**
-     * @param args
-     * @throws Exception
-     */
     public static void main(String[] args) throws Exception {
         //tipos primitivos
         //estudem a classe string que representa texto na aplicação
@@ -19,6 +15,6 @@ public class TiposVariaveis {
         
         numero = 10;
 
-        System.out.println("Hello, World!");
+        System.out.print(numero);
     }
 }
